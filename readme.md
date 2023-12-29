@@ -1,10 +1,10 @@
-# Health Insurance Cross Sell Prediction
+# Vehicle Insurance Cross Sell Prediction
 ---
 ## Project Description
 ---
 ### Introduction:-
 
-The **Health Insurance Cross Sell Prediction** project is designed to empower insurance companies in refining their cross-selling strategies. The primary objective is to identify potential customers within the existing health insurance clientele who are likely to convert and purchase vehicle insurance. Cross-selling is a pivotal strategy for insurance companies to not only maximize revenue but also to enhance customer retention. Leveraging advanced machine learning algorithms and thorough analysis of a comprehensive dataset, this project seeks to build a predictive model capable of accurately identifying customers with a higher likelihood of showing interest in purchasing vehicle insurance.
+The **Vehicle Insurance Cross Sell Prediction** project is designed to empower insurance companies in refining their cross-selling strategies. The primary objective is to identify potential customers within the existing vehicle insurance client who are likely to convert and purchase vehicle insurance. Cross-selling is a pivotal strategy for insurance companies to not only maximize revenue but also to enhance customer retention. Leveraging advanced machine learning algorithms and thorough analysis of a comprehensive dataset, this project seeks to build a predictive model capable of accurately identifying customers with a higher likelihood of showing interest in purchasing vehicle insurance.
 
 ---
 ### Dataset Overview:-
